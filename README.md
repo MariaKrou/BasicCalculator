@@ -1,24 +1,3 @@
-# BasicCalculator
-ABCcalculator (1).html
-m
-Type
-HTML
-Size
-2 KB (1,947 bytes)
-Storage used
-2 KB (1,947 bytes)
-Location
-Projects
-Owner
-me
-Modified
-Oct 8, 2019 by me
-Opened
-3:47 PM by me
-Created
-Oct 8, 2019 with Google Drive Web
-Add a description
-Viewers can download
 <html>
 <head>
 <meta charset="utf-8">
